@@ -63,3 +63,7 @@ max-width:800px;
 color:#777;
 font-size:14px;
 }
+
+.hero {
+  background: url("images/banner.jpg") center/cover no-repeat;
+}
