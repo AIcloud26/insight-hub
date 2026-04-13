@@ -66,4 +66,7 @@ font-size:14px;
 
 .hero {
   background: url("images/banner.jpg") center/cover no-repeat;
+  padding: 100px 20px;
+  color: white;
+  text-align: center;
 }
