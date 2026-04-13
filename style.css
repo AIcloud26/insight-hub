@@ -64,6 +64,13 @@ color:#777;
 font-size:14px;
 }
 
+.logo {
+  width: 120px;
+  height: 40px;
+
+  background: url("images/logo.png") no-repeat center;
+  background-size: contain;
+}
 .hero {
   background: url("images/banner.jpg") center/cover no-repeat;
   padding: 100px 20px;
